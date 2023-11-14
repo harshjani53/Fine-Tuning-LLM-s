@@ -3,7 +3,7 @@
 Generative AI with Large Language Models (LLMs) is an online course offered by Coursera that teaches the fundamentals of generative AI and how to deploy it in real-world applications. 
 The course is designed for developers who have a good foundational understanding of how LLMs work and the best practices behind training and deploying them. 
 
-###The course covers the following topics:
+### The course covers the following topics:
 
 The key steps in a typical LLM-based generative AI lifecycle: This includes data gathering, model selection, performance evaluation, and deployment.
 The transformer architecture that powers LLMs: This architecture is responsible for the impressive performance of LLMs on a variety of tasks.
